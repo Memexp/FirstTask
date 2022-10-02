@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: Objective;
+    src: url('../fonts/Objective/Objective-Thin.woff2');
+    font-weight: lighter;
+}
+@font-face {
+    font-family: Objective;
+    src: url('../fonts/Objective/Objective-Black.woff2');
+    font-weight: bold;
+}
+@font-face {
+    font-family: Objective;
+    src: url('../fonts/Objective/Objective-Regular.woff2');
+    font-weight: normal;
+}
+
+* {
+    font-family: Objective;
+    font-weight: normal;
+}

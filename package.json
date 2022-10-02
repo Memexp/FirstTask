@@ -1,0 +1,22 @@
+{
+  "name": "firsttask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Memexp/FirstTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Memexp/FirstTask/issues"
+  },
+  "homepage": "https://github.com/Memexp/FirstTask#readme",
+  "dependencies": {
+    "bootstrap": "5.2.1"
+  }
+}
